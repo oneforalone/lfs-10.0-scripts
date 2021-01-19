@@ -1,0 +1,17 @@
+01-m4-1.4.18.sh
+02-ncurses-6.2.sh
+03-bash-5.0.sh
+04-coreutils-8.32.sh
+05-diffutils-3.7.sh
+06-file-5.39.sh
+07-findutils-4.7.0.sh
+08-gawk-5.1.0.sh
+09-grep-3.4.sh
+10-gzip-1.10.sh
+11-make-4.3.sh
+12-patch-2.7.6.sh
+13-sed-4.8.sh
+14-tar-1.32.sh
+15-xz-5.2.5.sh
+16-binutils-2.35-pass2.sh
+17-gcc-10.2.0-pass2.sh
